@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@chatscope/chat-ui-kit-react": "^2.1.1",
+    "@chatscope/chat-ui-kit-styles": "^1.4.0",
+    "axios": "^1.10.0",
+    "react-icons": "^5.5.0",
+    "sentiment": "^5.0.2"
+  }
+}
